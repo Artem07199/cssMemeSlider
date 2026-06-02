@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(53, 53, 53);
+}
+.slider{
+    margin-top: 5em;
+    margin-left: 10em;
+}
+.slider-img{
+    width: 80vw;
+    height: 65vh;
+}
